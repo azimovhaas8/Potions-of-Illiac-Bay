@@ -1,0 +1,27 @@
+{
+    "ModTitle": "Potions of Illiac Bay ",
+    "ModVersion": "1.11",
+    "ModAuthor": "azimovhaas8",
+    "ContactInfo": "NexusMods: AzimovYuri88",
+    "DFUnity_Version": "0.10.26",
+    "ModDescription": "New potions added to list of potion mixers and potion sellers. New potions can be found in loot piles as well.",
+    "GUID": "8b6e31e2-6bf6-4642-a34b-93be642056cf",
+    "Files": [
+        "Assets/Game/Mods/NewPotionsForApothecaries/NewPotionsForApothecaries.dfmod.json",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/NewPotionsForApothecariesMod.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfAcrobat.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfArcaneProtection.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfEmissary.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfForge.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfJumping.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfRegeneration.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfShielding.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/SpellPointsRegenLogic.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfMagickaRegeneration.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfMagickaRenewal.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfExorcism.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfHolyAura.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/PotionOfSpellAbsorption.cs",
+        "Assets/Game/Mods/NewPotionsForApothecaries/Scripts/HealSpellPointsLogic.cs"
+    ]
+}
