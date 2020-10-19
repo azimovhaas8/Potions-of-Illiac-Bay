@@ -32,8 +32,6 @@ Unzip a folder, extract or copy the "potions of illiac bay.dfmod" file from rele
 StandaloneWindows folder, for example) into your DaggerfallUnity_Data\StreamingAssets\Mods folder.
 Enable "Mod System" option, allowing support of mods, if not done already.
 Enable mod.
-~Updated for Linux and OSX users~
-~Will update mod with new potions soon~
 
 **UNINSTALL:**
 Remove "potions of illiac bay.dfmod" file from DaggerfallUnity_Data\StreamingAssets\Mods folder.
